@@ -1,0 +1,36 @@
+*{
+	background-color: #00aced;
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	text-align: center;
+	letter-spacing: 1px;
+}
+h1 {
+	font-size: 48px;
+	font-weight: bold;
+}
+.box {
+	height: 100px;
+	margin-bottom: 60px;
+}
+.trigger {
+	width: 250px;
+	height: 60px;
+	font-size: 24px;
+	border-radius: 10%;
+	border-width: 3px;
+	border-color: #fff;
+	margin-bottom: 30px;
+	cursor: pointer;
+	line-height: 0px;
+}
+.trigger:hover {
+	background-color: #0084b4;
+}
+a {
+	display: block;
+}
+.tweet, .fa {
+	text-decoration: none;
+	background-color: inherit;
+}
